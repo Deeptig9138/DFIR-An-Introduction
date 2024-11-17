@@ -44,4 +44,7 @@ Completing this room will equip you with essential DFIR skills, preparing you fo
 
 Good luck, and enjoy your journey into the world of DFIR!
 
+## Disclaimer
+I claim no ownership of the content provided. This is solely for educational purposes. If there are any licensing concerns, please inform me.
+
 
