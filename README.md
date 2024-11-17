@@ -5,15 +5,10 @@ Welcome to **DFIR: An Introduction**! This entry-level guide is designed to prov
 
 ## 📋 Overview
 This consists of 6 tasks that will walk you through various fundamental aspects of DFIR. Each task simulates real-world scenarios, offering hands-on practice in digital forensic investigations and incident response.
-- Get all sorts of details about **Digital Forensic** and **DFIR** [here](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/Task%201.%20Introduction)
 
 ---
 
 ## 📝 Room Tasks
-
-### [1. Introduction](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/Task%201.%20Introduction) 🛡️
-- **Objective**: Familiarize yourself with the concept of DFIR and its significance.
-- **Description**: Understand what DFIR encompasses and why it is a crucial part of cybersecurity.
 
 ### [2. The Need for DFIR](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/Task%202.%20The%20Need%20for%20DFIR) 🔎
 - **Objective**: Recognize why DFIR is essential in modern cybersecurity.
