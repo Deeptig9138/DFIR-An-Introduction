@@ -25,7 +25,7 @@ This consists of 6 tasks that will walk you through various fundamental aspects 
 
 ### [4. DFIR Tools](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/Task%204.%20DFIR%20Tools) 🛠️
 - **Objective**: Get introduced to common DFIR tools and their applications.
-- **Description**: Understand the purpose and usage of tools like **[Volatility](https://www.volatilityfoundation.org/)** for memory analysis, **[Autopsy](https://www.sleuthkit.org/autopsy/)** for file system investigation, and imaging tools for evidence acquisition.
+- **Description**: Understand the purpose and usage of tools like **[Volatility](https://www.volatilityfoundation.org/)** for memory analysis, **[Autopsy](https://www.sleuthkit.org/autopsy/)** for file system investigation, and imaging tools for evidence acquisition and more.
 
 ### [5. The Incident Response Process](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/Task%205.%20The%20Incident%20Response%20Process) 🚨
 - **Objective**: Learn the structured steps involved in incident response.
