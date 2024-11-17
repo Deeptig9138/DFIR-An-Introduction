@@ -24,7 +24,7 @@ This consists of 6 tasks that will walk you through various fundamental aspects 
 
 ### 4. DFIR Tools 🛠️
 - **Objective**: Get introduced to common DFIR tools and their applications.
-- **Description**: Understand the purpose and usage of tools like **[Volatility](https://www.volatilityfoundation.org/)** for memory analysis, **[Autopsy](https://www.sleuthkit.org/autopsy/)/Sleuth Kit** for file system investigation, and imaging tools for evidence acquisition.
+- **Description**: Understand the purpose and usage of tools like **[Volatility](https://www.volatilityfoundation.org/)** for memory analysis, **[Autopsy](https://www.sleuthkit.org/autopsy/)** for file system investigation, and imaging tools for evidence acquisition.
 
 ### 5. The Incident Response Process 🚨
 - **Objective**: Learn the structured steps involved in incident response.
@@ -39,13 +39,6 @@ This consists of 6 tasks that will walk you through various fundamental aspects 
 ## ⚙️ Requirements
 - Basic understanding of cybersecurity principles.
 - Familiarity with command-line operations and basic forensic tools is beneficial.
-
----
-
-## 🧰 Tools You Will Use
-- **[Volatility](https://www.volatilityfoundation.org/)**: For analyzing memory dumps and extracting data.
-- **[Autopsy](https://www.sleuthkit.org/autopsy/)/Sleuth Kit**: For comprehensive file system analysis.
-- **Imaging Tools**: For creating and verifying forensic images.
 
 ---
 
