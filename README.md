@@ -5,6 +5,7 @@ Welcome to **DFIR: An Introduction**! This entry-level guide is designed to prov
 
 ## 📋 Overview
 This consists of 6 tasks that will walk you through various fundamental aspects of DFIR. Each task simulates real-world scenarios, offering hands-on practice in digital forensic investigations and incident response.
+- Get all sorts of details about **Digital Forensic** and **DFIR** [here]()
 
 ---
 
