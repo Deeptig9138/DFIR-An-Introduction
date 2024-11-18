@@ -37,17 +37,18 @@ Together, Digital Forensics and Incident Response create a comprehensive approac
 - [Learn more about DFIR](https://www.example-dfir-resource.com)
 - [Cybersecurity Best Practices](https://www.example-cybersecurity-guide.com)
 
-<div style="display: flex; align-items: left;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
     <h2>🔗 Useful Resources</h2>
-    <p>
-      - [Learn more about DFIR](https://www.example-dfir-resource.com)
-      - [Cybersecurity Best Practices](https://www.example-cybersecurity-guide.com)
-    </p>
+    <ul>
+      <li><a href="https://www.example-dfir-resource.com">Learn more about DFIR</a></li>
+      <li><a href="https://www.example-cybersecurity-guide.com">Cybersecurity Best Practices</a></li>
+    </ul>
   </div>
-  <div style="flex: 1; text-align: left;">
+  <div style="flex: 1; text-align: right;">
     <img src="https://www.safeaeon.com/assets/img/web-images/forensic_img.webp" alt="DFIR1" width="300">
   </div>
 </div>
+
 
 
