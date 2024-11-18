@@ -5,7 +5,7 @@ The security industry has developed various exciting tools to assist in the **DF
 
 ## KAPE (Kroll Artifact Parser and Extractor) 🧑‍💻
 
-[KAPE](https://www.kroll.com/en/services/cyber-risk/kape) is a powerful tool developed by Eric Zimmerman that automates the collection and parsing of forensic artifacts from systems. It helps streamline the process of gathering data, reducing the time required for manual artifact extraction. 
+[KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) is a powerful tool developed by Eric Zimmerman that automates the collection and parsing of forensic artifacts from systems. It helps streamline the process of gathering data, reducing the time required for manual artifact extraction. 
 
 Key features of KAPE:
 - **Artifact collection**: KAPE allows users to target specific artifacts such as browser history, log files, and registry keys from a system. 
@@ -31,7 +31,7 @@ Autopsy is well-suited for investigations involving storage media and can be use
 
 ## Volatility 🧠
 
-[Volatility](https://www.volatilityfoundation.org/) is a memory analysis tool that allows investigators to analyze memory dumps from **Windows** and **Linux** systems. It is particularly useful for extracting information that resides in system memory (RAM), which may not be captured in traditional disk-based forensic analysis.
+[Volatility](https://volatilityfoundation.org/) is a memory analysis tool that allows investigators to analyze memory dumps from **Windows** and **Linux** systems. It is particularly useful for extracting information that resides in system memory (RAM), which may not be captured in traditional disk-based forensic analysis.
 
 Features of Volatility include:
 - **Memory analysis**: It can extract useful data from system memory, such as running processes, network connections, and active user sessions.
@@ -57,7 +57,7 @@ Redline is ideal for professionals handling incident response, particularly when
 
 ## Velociraptor 🦖
 
-[Velociraptor](https://github.com/Velocidex/velociraptor) is an open-source, advanced endpoint monitoring, forensics, and response platform. It provides a powerful suite of tools to monitor, investigate, and respond to security incidents on endpoints in real-time.
+[Velociraptor](https://www.rapid7.com/products/velociraptor/) is an open-source, advanced endpoint monitoring, forensics, and response platform. It provides a powerful suite of tools to monitor, investigate, and respond to security incidents on endpoints in real-time.
 
 Key features of Velociraptor include:
 - **Endpoint monitoring**: Velociraptor allows continuous monitoring of endpoints for suspicious activity, such as unusual file access, network traffic, or registry changes.
