@@ -10,6 +10,10 @@ This consists of 6 tasks that will walk you through various fundamental aspects 
 
 ## 📝 Room Tasks
 
+### 1. Introduction 🛡️
+- **Objective**: Familiarize yourself with the concept of DFIR and its significance.
+- **Description**: Understand what DFIR encompasses and why it is a crucial part of cybersecurity.
+
 ### [2. The Need for DFIR](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/Task%202.%20The%20Need%20for%20DFIR) 🔎
 - **Objective**: Recognize why DFIR is essential in modern cybersecurity.
 - **Description**: Learn about the role DFIR plays in responding to incidents and protecting digital assets.
