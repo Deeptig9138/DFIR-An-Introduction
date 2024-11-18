@@ -1,18 +1,14 @@
-# 🌐 [DFIR: An Introduction](https://tryhackme.com/r/room/introductoryroomdfirmodule)
+# 🌐 [DFIR: An Introduction]
 Welcome to **DFIR: An Introduction**! This entry-level guide is designed to provide foundational knowledge and practical skills in Digital Forensics and Incident Response (DFIR). By completing this, you will build a strong understanding of DFIR processes and tools.
 
 ---
 
 ## 📋 Overview
-This consists of 6 tasks that will walk you through various fundamental aspects of DFIR. Each task simulates real-world scenarios, offering hands-on practice in digital forensic investigations and incident response.
+This consists of walkthrough of various fundamental aspects of DFIR. Each task simulates real-world scenarios, offering hands-on practice in digital forensic investigations and incident response.
 
 ---
 
-## 📝 Room Tasks
-
-### 1. Introduction 🛡️
-- **Objective**: Familiarize yourself with the concept of DFIR and its significance.
-- **Description**: Understand what DFIR encompasses and why it is a crucial part of cybersecurity.
+## 📝 Tasks
 
 ### [2. The Need for DFIR](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/Task%202.%20The%20Need%20for%20DFIR) 🔎
 - **Objective**: Recognize why DFIR is essential in modern cybersecurity.
