@@ -1,6 +1,6 @@
 # DFIR: Digital Forensics and Incident Response
 
-![DFIR](https://www.example.com/path-to-dfir-image.jpg)
+![DFIR](https://www.datocms-assets.com/75231/1721222214-03-digital-forensics-and-incident-response-dfir.png?fm=webp)
 
 ## 🔍 What is DFIR?
 DFIR stands for **Digital Forensics and Incident Response**. This field encompasses the collection of forensic artifacts from digital devices such as computers, media devices, and smartphones to investigate security incidents. DFIR assists security professionals in identifying attacker footprints left during security incidents, assessing the extent of the compromise, and restoring the environment to its pre-incident state.
