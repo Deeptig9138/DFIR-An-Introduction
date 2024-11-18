@@ -10,7 +10,7 @@ This consists of walkthrough of various fundamental aspects of DFIR. Each task s
 
 ## 📝 Tasks
 
-### [2. The Need for DFIR](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/Task%202.%20The%20Need%20for%20DFIR) 🔎
+### [1. The Need for DFIR](https://github.com/Deeptig9138/DFIR-An-Introduction/blob/main/Task%201.%20The%20Need%20for%20DFIR/README.md) 🔎
 - **Objective**: Recognize why DFIR is essential in modern cybersecurity.
 - **Description**: Learn about the role DFIR plays in responding to incidents and protecting digital assets.
 
