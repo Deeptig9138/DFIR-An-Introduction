@@ -15,7 +15,7 @@ Welcome to **DFIR: An Introduction**! This entry-level guide is designed to prov
 
 ### [3. DFIR Tools](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/3.%20DFIR%20Tools) 🛠️
 - **Objective**: Get introduced to common DFIR tools and their applications.
-- **Description**: Understand the purpose and usage of tools like **[Volatility](https://www.volatilityfoundation.org/)** for memory analysis, **[Autopsy](https://www.sleuthkit.org/autopsy/)** for file system investigation, and imaging tools for evidence acquisition and more.
+- **Description**: Understand the purpose and usage of tools like **Volatility** for memory analysis, **Autopsy** for file system investigation, and imaging tools for evidence acquisition and more.
 
 ### [4. The Incident Response Process](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/4.%20The%20Incident%20Response%20Process) 🚨
 - **Objective**: Learn the structured steps involved in incident response.
