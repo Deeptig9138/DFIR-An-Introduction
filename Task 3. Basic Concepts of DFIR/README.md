@@ -1,6 +1,8 @@
 # DFIR: Introduction and Basic Concepts 🕵️‍♂️💻
 In this task, we will introduce **DFIR** (Digital Forensics and Incident Response) and explore some fundamental concepts that are essential in the DFIR process.
 
+![process](https://media.licdn.com/dms/image/v2/D4D12AQEWJwdSIMuliQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721309992216?e=2147483647&v=beta&t=iZXovlxKXaVQx9oTnhVFHGs2eTnf3fra675IMuKwheQ)
+
 ## Artifacts 🧩
 Artifacts are pieces of evidence that point to an activity performed on a system. When conducting DFIR, artifacts are collected to support a hypothesis or claim about an attacker's activity. For example, if we claim that an attacker used Windows registry keys to maintain persistence on a system, we can use the registry key to support this claim. The mentioned registry key would be considered an artifact.
 
