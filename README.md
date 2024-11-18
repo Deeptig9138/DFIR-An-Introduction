@@ -1,5 +1,7 @@
 # 🌐 [DFIR: An Introduction](https://tryhackme.com/r/room/introductoryroomdfirmodule)
-Welcome to **DFIR: An Introduction**! This entry-level guide is designed to provide foundational knowledge and practical skills in Digital Forensics and Incident Response (DFIR). By completing this, you will build a strong understanding of DFIR processes and tools.
+Welcome to **DFIR: An Introduction**! This entry-level guide is designed to provide                         ![Cybersecurity](https://www.safeaeon.com/assets/img/web-images/forensic_img.webp)
+foundational knowledge and practical skills in Digital Forensics and Incident Response (DFIR). 
+By completing this, you will build a strong understanding of DFIR processes and tools.
 
 ![Cybersecurity](https://www.safeaeon.com/assets/img/web-images/forensic_img.webp)
 ---
