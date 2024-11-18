@@ -31,7 +31,7 @@ Together, Digital Forensics and Incident Response create a comprehensive approac
 
 ---
 
-![Cybersecurity](https://www.example.com/path-to-cybersecurity-image.jpg)
+![Cybersecurity](https://www.safeaeon.com/assets/img/web-images/forensic_img.webp)
 
 ### 🔗 Useful Resources
 - [Learn more about DFIR](https://www.example-dfir-resource.com)
