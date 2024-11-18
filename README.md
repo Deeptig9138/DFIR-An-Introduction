@@ -21,16 +21,6 @@ Welcome to **DFIR: An Introduction**! This entry-level guide is designed to prov
 - **Objective**: Learn the structured steps involved in incident response.
 - **Description**: Delve into the phases of incident response, from preparation and detection to containment, eradication, recovery, and lessons learned.
 
-### [5. Conclusion](https://github.com/Deeptig9138/DFIR-An-Introduction/tree/main/5.%20Conclusion) ✅
-- **Objective**: Reflect on what you have learned and understand how to apply these skills in real-world situations.
-- **Description**: Summarize your knowledge gained from the room and get ready to use these insights in practical forensic and incident response tasks.
-
----
-
-## ⚙️ Requirements
-- Basic understanding of cybersecurity principles.
-- Familiarity with command-line operations and basic forensic tools is beneficial.
-
 ---
 
 🔍 **Good luck**, and enjoy your journey into the world of DFIR!
