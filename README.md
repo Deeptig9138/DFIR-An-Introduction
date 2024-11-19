@@ -24,5 +24,3 @@ Welcome to **DFIR: An Introduction**! This entry-level guide is designed to prov
 ---
 
 🔍 **Good luck**, and enjoy your journey into the world of DFIR!
-
----
