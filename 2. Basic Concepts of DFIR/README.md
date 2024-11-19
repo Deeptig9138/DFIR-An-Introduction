@@ -56,5 +56,3 @@ After collecting artifacts and ensuring their integrity, the next step is to org
 The timeline creates a narrative of events, making it easier to understand how the incident unfolded. By combining information from various sources, we can construct a detailed story of the attacker's actions.
 
 ![timeline creation](https://i0.wp.com/dfirmadness.com/wp-content/uploads/2021/04/Super_Timeline_Title-1.png?resize=1200%2C749&ssl=1)
-
----
