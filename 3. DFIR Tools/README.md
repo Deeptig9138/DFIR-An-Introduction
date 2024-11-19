@@ -75,5 +75,3 @@ While these tools significantly aid in the DFIR process, understanding the broad
 ---
 
 *Note: The descriptions provided here are an overview of each tool's functionality. For a more in-depth understanding, exploring the tool's documentation and practical use is recommended.*
-
----
