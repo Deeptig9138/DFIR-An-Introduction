@@ -42,5 +42,3 @@ Together, Digital Forensics and Incident Response create a comprehensive approac
 ### 🔗 Useful Resources
 - [Learn more about DFIR](https://thedfirreport.com/)
 - [Cybersecurity Best Practices](https://www.cisa.gov/topics/cybersecurity-best-practices)
-
----
