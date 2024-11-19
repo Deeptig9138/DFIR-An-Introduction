@@ -113,5 +113,3 @@ By understanding the Incident Response process and leveraging Digital Forensics 
 ---
 
 *Note: The steps described here are part of widely recognized frameworks. For a more detailed guide on implementing these steps, refer to the official NIST and SANS documentation on Incident Response.*
-
----
